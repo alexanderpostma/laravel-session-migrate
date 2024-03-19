@@ -17,4 +17,4 @@ In the App\Console\Commands directory, create a SessionMigrate.php file with the
 - php artisan config:cache
 
 
-Done.
+5. Done.
